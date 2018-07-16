@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vagrant on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/vagrant/</link>
+    <description>Recent content in Vagrant on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Dec 2014 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/vagrant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up a multi-machine environment in Vagrant with Ansible</title>
+      <link>http://tjheeta.github.io/2014/12/02/ansible-vagrant-multiple-nodes/</link>
+      <pubDate>Tue, 02 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/02/ansible-vagrant-multiple-nodes/</guid>
+      <description>Setting up a multi-vm environment with master and slave ip&amp;rsquo;s is a bit tricky with Vagrant. With chef, we&amp;rsquo;d have to setup chef-zero, which I&amp;rsquo;ve had many issues with vagrant, or a local chef-server to deploy a multi-machine cluster. It works, but I was never enamored with it. However, this isn&amp;rsquo;t a post about chef. With ansible, there are a few gotchas which are covered in the Vagrantfile below, but it&amp;rsquo;s actually quite a bit easier.</description>
+    </item>
+    
+  </channel>
+</rss>

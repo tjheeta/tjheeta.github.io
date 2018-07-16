@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ansible on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/ansible/</link>
+    <description>Recent content in Ansible on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2015 05:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible vs Chef</title>
+      <link>http://tjheeta.github.io/2015/04/15/ansible-vs-chef/</link>
+      <pubDate>Wed, 15 Apr 2015 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/04/15/ansible-vs-chef/</guid>
+      <description>I wrote an earlier post about evaluating Ansible as an alternative to Chef. So after spending many years with Chef, I&amp;rsquo;ve found that Ansible is a lot easier to manage with startups. It&amp;rsquo;s easier to train developers, it&amp;rsquo;s easier to manage inventory and orchestration, and it works reasonably well on the scale of thousands of hosts. And let&amp;rsquo;s face it, if you have more than that, you&amp;rsquo;ll have to start partitioning.</description>
+    </item>
+    
+    <item>
+      <title>Ansible Credentials and Variable Overrides</title>
+      <link>http://tjheeta.github.io/2015/04/14/ansible-credentials-and-variable-override/</link>
+      <pubDate>Tue, 14 Apr 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/04/14/ansible-credentials-and-variable-override/</guid>
+      <description>Let&amp;rsquo;s say we need to create mysql users. We&amp;rsquo;ll be overloading at the group_vars level, with group_vars/all/mysql_users.vault.yml being overridden by the more specific group_vars/production/mysql_users.vault.yml. Although we can set some basic stuff for all the hosts in a role, we want it to be available to both the database and the app roles without introducing dependencies. Hence, group_vars/all.
+In ansible, to get a merging rather than replace behaviour for hashes, we set hash_behaviour = merge in ansible.</description>
+    </item>
+    
+    <item>
+      <title>Tinc VPN - setting up a mesh network</title>
+      <link>http://tjheeta.github.io/2015/02/17/ansible-tinc/</link>
+      <pubDate>Tue, 17 Feb 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/02/17/ansible-tinc/</guid>
+      <description>Have you ever wanted to connect up your home network, your personal servers, your laptop, and maybe some virtual machines running inside your laptop? I&amp;rsquo;ve always used OpenVPN for production networks, however, tinc is extremely convenient. It sets up a mesh between all of the members of the network. Instead of re-routing all traffic through a central server, this node to node connection decreases the latency. Tinc&amp;rsquo;s configuration is a bit painful though, so here comes a post about ansible&amp;hellip;again.</description>
+    </item>
+    
+    <item>
+      <title>Ansible Chef Inventory Orchestration</title>
+      <link>http://tjheeta.github.io/2015/01/18/ansible-chef-inventory/</link>
+      <pubDate>Sun, 18 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/01/18/ansible-chef-inventory/</guid>
+      <description>If you have used or are using chef for configuration management, chances are that you may have rolled some custom deployment scripts with fog or some other libraries. However, why roll your own when you don&amp;rsquo;t have to? It&amp;rsquo;s pretty easy to manage and orchestrate with the dynamic inventory of ansible.
+Ansible can handle a few of the common orchestration tasks easily that aren&amp;rsquo;t possible without custom work:
+ Deployments that require some ordering Rolling upgrades Creation of hosts and clusters on a variety of providers and then bootstrapping.</description>
+    </item>
+    
+    <item>
+      <title>Setting up a multi-machine environment in Vagrant with Ansible</title>
+      <link>http://tjheeta.github.io/2014/12/02/ansible-vagrant-multiple-nodes/</link>
+      <pubDate>Tue, 02 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/02/ansible-vagrant-multiple-nodes/</guid>
+      <description>Setting up a multi-vm environment with master and slave ip&amp;rsquo;s is a bit tricky with Vagrant. With chef, we&amp;rsquo;d have to setup chef-zero, which I&amp;rsquo;ve had many issues with vagrant, or a local chef-server to deploy a multi-machine cluster. It works, but I was never enamored with it. However, this isn&amp;rsquo;t a post about chef. With ansible, there are a few gotchas which are covered in the Vagrantfile below, but it&amp;rsquo;s actually quite a bit easier.</description>
+    </item>
+    
+    <item>
+      <title>Ansible autoscale (tower) alternatives</title>
+      <link>http://tjheeta.github.io/2014/11/24/ansible-autoscale-tower-alternative/</link>
+      <pubDate>Mon, 24 Nov 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/11/24/ansible-autoscale-tower-alternative/</guid>
+      <description>In my last post, I wanted to deploy a cluster of workers, but stopped after setting up autoscaling groups as I wanted a &amp;ldquo;nice&amp;rdquo; way to build them up. I could have plowed on with a userdata script that was built with the original master server ip, followed by using ansible-playbook to download and execute some plays. In fact, that seems awfully reasonable to me right now instead of going on this yak-shaving adventure.</description>
+    </item>
+    
+    <item>
+      <title>Ansible and EC2</title>
+      <link>http://tjheeta.github.io/2014/11/21/ansible-and-ec2-part-1/</link>
+      <pubDate>Fri, 21 Nov 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/11/21/ansible-and-ec2-part-1/</guid>
+      <description>There are a few must-haves to switch from Chef to Ansible and a few nice to haves.
+ A replacement for chef search Ability to create and manage auto-scaling infrastructure on EC2. A way to bootstrap inventory without a central master.  So a basic application pattern would be a central server and a set of workers. To provision on EC2, we need to do a few things:
+ Create a security group Spin up a central server instance Spin up worker instances Ability to setup autoscale groups Provision the workers brought up by the autoscale group  Setting up the EC2 resources is easier in ansible than in chef.</description>
+    </item>
+    
+    <item>
+      <title>Chef, Puppet, Ansible</title>
+      <link>http://tjheeta.github.io/2014/11/20/chef-puppet-ansible/</link>
+      <pubDate>Thu, 20 Nov 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/11/20/chef-puppet-ansible/</guid>
+      <description>I&amp;rsquo;ve been using Chef for years. Since it was in 0.7 and very rough. Before Chef, I was using Puppet. Before Puppet, there was shell scripts.
+I switched from Puppet for a few reasons (I&amp;rsquo;m not sure if they apply anymore though):
+ In 2009, we built our own private cloud on some blades and at the time there was no nice way to create hosts automatically. But then knife came along and we fell in love with it.</description>
+    </item>
+    
+    <item>
+      <title>Chef EC2 Autoscale</title>
+      <link>http://tjheeta.github.io/2014/11/19/chef-ec2-autoscale/</link>
+      <pubDate>Wed, 19 Nov 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/11/19/chef-ec2-autoscale/</guid>
+      <description>This post is essentially just for comparison of how to do the same autoscale with ansible as with chef.
+To use chef with an autoscale group, we need to setup the chef-client with the validation key to connect back to the chef-server. Before IAM policies, we would have to do this directly in the userdata script - either by pulling it or writing our passwords there. Now with the IAM group, we can give read-only access to the ec2 instances to an s3 bucket.</description>
+    </item>
+    
+  </channel>
+</rss>

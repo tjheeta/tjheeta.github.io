@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nothing interesting...</title>
+    <link>http://tjheeta.github.io/</link>
+    <description>Recent content on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 03:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thinkpad X230 Coreboot Power Usage</title>
+      <link>http://tjheeta.github.io/2018/07/15/thinkpad-x230-coreboot-power-usage/</link>
+      <pubDate>Sun, 15 Jul 2018 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2018/07/15/thinkpad-x230-coreboot-power-usage/</guid>
+      <description>After 2 years with a Thinkpad X200, I decided to try out an X230 and see if it was worth the upgrade.
+Short story - yes.
+Having a decade old machine is fine for most tasks including - watching videos, writing, powering two monitors, programming, and other general tasks. However, when it came to heavy javascript usage on web browsers, well, one becomes very judicious with their web browsing on an old machine, which isn&amp;rsquo;t necessarily a bad thing.</description>
+    </item>
+    
+    <item>
+      <title>Dawn of the Microlith - Monoservices with Elixir</title>
+      <link>http://tjheeta.github.io/2016/12/16/dawn-of-the-microlith-monoservices-microservices-with-elixir/</link>
+      <pubDate>Fri, 16 Dec 2016 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2016/12/16/dawn-of-the-microlith-monoservices-microservices-with-elixir/</guid>
+      <description>Introduction Microservices are the newest technology trend and should be approached with deliberation. There is a ludicrous amount of subject matter on it, which I&amp;rsquo;m not going to cover. The important part to understand is if they are a fit for your organization.
+To measure if the architecture adds business value, it really comes down to how quickly can features be released to production and the stability / maintainability of the codebase.</description>
+    </item>
+    
+    <item>
+      <title>The search for the ultimate carry on travel backpack</title>
+      <link>http://tjheeta.github.io/2016/07/25/the-search-for-ultimate-carry-on-travel-backpack/</link>
+      <pubDate>Mon, 25 Jul 2016 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2016/07/25/the-search-for-ultimate-carry-on-travel-backpack/</guid>
+      <description>The search for the ultimate carry-on travel backpack was an insanely long process, but I believe I finally found the best hybrid travel/hiking/daily backpack. I&amp;rsquo;ve been pretty minimalist for about three years now and have travelled perhaps too much for the past 10. But ironically, I never found the perfect piece of luggage. If you&amp;rsquo;re going to travel frequently or for long stretches of time (1 month to 1 year), I have learnt from experience, having the right luggage can make the difference between coping and enjoying your trip.</description>
+    </item>
+    
+    <item>
+      <title>Getting rid of my Macbook Air for a Thinkpad X200</title>
+      <link>http://tjheeta.github.io/2016/05/25/getting-rid-of-macbook-air-for-thinkpad-x200/</link>
+      <pubDate>Wed, 25 May 2016 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2016/05/25/getting-rid-of-macbook-air-for-thinkpad-x200/</guid>
+      <description>I&amp;rsquo;m a free software guy. I&amp;rsquo;ve been using some &amp;lsquo;nix (Linux/BSD) so long, that I can&amp;rsquo;t work on a machine where caps lock is not mapped to ctrl. I get so frustrated in gui&amp;rsquo;s that I instinctively yell for imaginary children to get off my non-existent lawn. Since 2004, I had only used Thinkpad X or T series. So when I finally bought a Macbook Air in 2011, to the salesperson&amp;rsquo;s amusement, I told them I&amp;rsquo;d probably return it in a week or so.</description>
+    </item>
+    
+    <item>
+      <title>Picking the right framework</title>
+      <link>http://tjheeta.github.io/2016/01/31/picking-the-right-framework/</link>
+      <pubDate>Sun, 31 Jan 2016 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2016/01/31/picking-the-right-framework/</guid>
+      <description>It has all been done before For someone starting out building applications for web/mobile/etc, it can be absurdly difficult with all the choice. Should you use Ruby? Python? Haskell? Elixir? C? Rust? Go? Erlang? Node? PHP? Java? How about frameworks? Ruby on rails? Flask? OK, perhaps choosing is too difficult. What about a nosql database? 225 and growing, so not easy. Perhaps it would be easier to figure out a deployment model between containers and paas and configuration management tools?</description>
+    </item>
+    
+    <item>
+      <title>Moving from Jekyll to Hugo</title>
+      <link>http://tjheeta.github.io/2016/01/31/moving-from-jekyll-to-hugo/</link>
+      <pubDate>Sun, 31 Jan 2016 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2016/01/31/moving-from-jekyll-to-hugo/</guid>
+      <description>Amusingly enough, one of the main reasons I&amp;rsquo;m moving to Hugo is that I can&amp;rsquo;t seem to get jekyll running again and I had a few things I wanted to publish. So naturally, a migration post is necessary instead of what I was actually going to do.
+One of the main benefits of having a static site is that:
+ No databases. Cheap/free to host. No concern about having to upgrade backend software.</description>
+    </item>
+    
+    <item>
+      <title>Elixir and Erlang Mysql Database Drivers</title>
+      <link>http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/</link>
+      <pubDate>Sun, 31 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/</guid>
+      <description>Yesterday, I was investigating the performance of database drivers in Erlang. Mysql performance on Erlang has never really been great. Emysql readme states a bunch of technical shortcomings, but then states it&amp;rsquo;s still probably the best one out there. Another one is erlang-mysql-driver, but it seems to have never gained any steam either. I&amp;rsquo;ve never heard of Erlmysql before today. Elixir has it&amp;rsquo;s own mysql driver Mariaex, but the performance of that isn&amp;rsquo;t that great.</description>
+    </item>
+    
+    <item>
+      <title>Profiling and Debugging in Elixir - Mariaex</title>
+      <link>http://tjheeta.github.io/2015/05/31/profiling-debugging-elixir-mariaex/</link>
+      <pubDate>Sun, 31 May 2015 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/31/profiling-debugging-elixir-mariaex/</guid>
+      <description>I&amp;rsquo;m looking for a solid mysql driver for Ecto. Mariaex is the only one, but it is behaving strangely and slowly. I&amp;rsquo;m documenting this debugging in hopes it is useful for future generations.
+The raw results are below and the source code for this is on github.
+Repeatedly running the benchmark has the latency pinned at 200 ms. This doesn&amp;rsquo;t make any sense.
+# Ecto with Mariaex ./wrk -c 100 -d 10 -t 20 http://localhost:8800/mariaex Running 10s test @ http://localhost:8800/ecto 20 threads and 100 connections Thread Stats Avg Stdev Max +/- Stdev Latency 200.</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Elixir and Erlang database drivers</title>
+      <link>http://tjheeta.github.io/2015/05/30/benchmarking-elixir-postgres-mysql-ecto/</link>
+      <pubDate>Sat, 30 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/30/benchmarking-elixir-postgres-mysql-ecto/</guid>
+      <description>I&amp;rsquo;ve never used an ORM before, mainly because I&amp;rsquo;ve had some previous experience watching people use Hibernate and it scared the bejeebus out of me. It seems easier to just write the SQL and there are some performance advantages to do so. Was planning to try Ecto, so at this point, it&amp;rsquo;s a good time to do some very simple benchmarks for select. So we&amp;rsquo;ll be benchmarking ecto, postgrex, epgsql, mariaex, and emysql, and mysql-otp.</description>
+    </item>
+    
+    <item>
+      <title>Ansible vs Chef</title>
+      <link>http://tjheeta.github.io/2015/04/15/ansible-vs-chef/</link>
+      <pubDate>Wed, 15 Apr 2015 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/04/15/ansible-vs-chef/</guid>
+      <description>I wrote an earlier post about evaluating Ansible as an alternative to Chef. So after spending many years with Chef, I&amp;rsquo;ve found that Ansible is a lot easier to manage with startups. It&amp;rsquo;s easier to train developers, it&amp;rsquo;s easier to manage inventory and orchestration, and it works reasonably well on the scale of thousands of hosts. And let&amp;rsquo;s face it, if you have more than that, you&amp;rsquo;ll have to start partitioning.</description>
+    </item>
+    
+    <item>
+      <title>Ansible Credentials and Variable Overrides</title>
+      <link>http://tjheeta.github.io/2015/04/14/ansible-credentials-and-variable-override/</link>
+      <pubDate>Tue, 14 Apr 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/04/14/ansible-credentials-and-variable-override/</guid>
+      <description>Let&amp;rsquo;s say we need to create mysql users. We&amp;rsquo;ll be overloading at the group_vars level, with group_vars/all/mysql_users.vault.yml being overridden by the more specific group_vars/production/mysql_users.vault.yml. Although we can set some basic stuff for all the hosts in a role, we want it to be available to both the database and the app roles without introducing dependencies. Hence, group_vars/all.
+In ansible, to get a merging rather than replace behaviour for hashes, we set hash_behaviour = merge in ansible.</description>
+    </item>
+    
+    <item>
+      <title>Debugging slow systems</title>
+      <link>http://tjheeta.github.io/2015/03/01/debugging-systems/</link>
+      <pubDate>Sun, 01 Mar 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/03/01/debugging-systems/</guid>
+      <description>Most of this post is blindingly obvious since it&amp;rsquo;s the scientific method. And quite frankly, I wouldn&amp;rsquo;t be writing it if someone didn&amp;rsquo;t ask me why something was slow. Most of the time this is a game of whack-a-mole, especially, if you don&amp;rsquo;t got something like newrelic installed. A better question to ask is not why is something slow, but when will something become slow? So let&amp;rsquo;s start with a basic, &amp;ldquo;OMG, the website is slow!</description>
+    </item>
+    
+    <item>
+      <title>Tinc VPN - setting up a mesh network</title>
+      <link>http://tjheeta.github.io/2015/02/17/ansible-tinc/</link>
+      <pubDate>Tue, 17 Feb 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/02/17/ansible-tinc/</guid>
+      <description>Have you ever wanted to connect up your home network, your personal servers, your laptop, and maybe some virtual machines running inside your laptop? I&amp;rsquo;ve always used OpenVPN for production networks, however, tinc is extremely convenient. It sets up a mesh between all of the members of the network. Instead of re-routing all traffic through a central server, this node to node connection decreases the latency. Tinc&amp;rsquo;s configuration is a bit painful though, so here comes a post about ansible&amp;hellip;again.</description>
+    </item>
+    
+    <item>
+      <title>Slashpackage binaries compiled with Musl</title>
+      <link>http://tjheeta.github.io/2015/01/30/slashpackage-installer/</link>
+      <pubDate>Fri, 30 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/01/30/slashpackage-installer/</guid>
+      <description>I was fooling around with NixOS and it was a bit trickier to compile the binaries I was interested in. So I cobbled together a rudimentary slashpackage manager based off the work of Paul Jarc. The work was fairly complete for C programs, but it seems to be mostly abandoned at this point. Slashpackage binaries can be used on any system and are convenient for custom upgrades. All binaries are installed in /package and symlinked to /command or /package/host/&amp;hellip;/command.</description>
+    </item>
+    
+    <item>
+      <title>Ansible Chef Inventory Orchestration</title>
+      <link>http://tjheeta.github.io/2015/01/18/ansible-chef-inventory/</link>
+      <pubDate>Sun, 18 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/01/18/ansible-chef-inventory/</guid>
+      <description>If you have used or are using chef for configuration management, chances are that you may have rolled some custom deployment scripts with fog or some other libraries. However, why roll your own when you don&amp;rsquo;t have to? It&amp;rsquo;s pretty easy to manage and orchestrate with the dynamic inventory of ansible.
+Ansible can handle a few of the common orchestration tasks easily that aren&amp;rsquo;t possible without custom work:
+ Deployments that require some ordering Rolling upgrades Creation of hosts and clusters on a variety of providers and then bootstrapping.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Documentation</title>
+      <link>http://tjheeta.github.io/2015/01/04/the-importance-of-documentation/</link>
+      <pubDate>Sun, 04 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/01/04/the-importance-of-documentation/</guid>
+      <description>Have you ever assembled IKEA furniture? They have the best little picture diagrams of how to attach the leg to the table. It makes assembling a piece of furniture with 50+ pieces a snap. On the other hand, if you don&amp;rsquo;t read the documentation and think that you got it under control, you can assemble the damn thing almost perfectly except for the two almost identical looking pieces and then have to take it apart and do it again.</description>
+    </item>
+    
+    <item>
+      <title>The naive basics of scaling backend data</title>
+      <link>http://tjheeta.github.io/2014/12/27/naive-basics-scaling-a-backend/</link>
+      <pubDate>Sat, 27 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/27/naive-basics-scaling-a-backend/</guid>
+      <description>I recently had to talk about scaling backend data, so I figured I would write a post about it. There&amp;rsquo;s a well defined pattern to scaling backends which involves moving the bottlenecks from IO to CPU to network and back. I&amp;rsquo;m only going to be talking about well established patterns for scaling backend data because optimizing frontend and throughput is an incredibly nuanced topic.
+So let&amp;rsquo;s say you&amp;rsquo;re running out of space.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - external process connection supervisor pattern </title>
+      <link>http://tjheeta.github.io/2014/12/24/elixir-external-process-supervisor-restart-pattern/</link>
+      <pubDate>Wed, 24 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/24/elixir-external-process-supervisor-restart-pattern/</guid>
+      <description>Unfortunately, it&amp;rsquo;s pretty difficult to title this post, but it&amp;rsquo;s a common problem. Let&amp;rsquo;s say that you have an application that depends on an external service like a database. If you have a pool of workers that are under supervision and the database goes down, what will happen is that erlang supervisor will attempt to restart max_restarts in max_seconds . If the database is down for a long time, after it fails, it will kill the children and exit itself.</description>
+    </item>
+    
+    <item>
+      <title>Building a distributed web-crawler in elixir</title>
+      <link>http://tjheeta.github.io/2014/12/10/building-distributed-web-crawler-elixir-index/</link>
+      <pubDate>Wed, 10 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/10/building-distributed-web-crawler-elixir-index/</guid>
+      <description>So here&amp;rsquo;s an n-part tutorial on getting a distributed web-crawler running with Elixir. So what&amp;rsquo;s the motivation for this yak-shaving project? Essentially, someone asked me. So here goes&amp;hellip;
+The crawler has two main tasks and a few requirements:
+ Download the pages and store them on some node. Parse the pages for new links. Ability to spawn or destroy worker nodes as required and have it pick back up. Ability to limit the number of times a worker accesses a website to avoid getting banned.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - app startup and runit</title>
+      <link>http://tjheeta.github.io/2014/12/09/elixir-app-startup-and-runit/</link>
+      <pubDate>Tue, 09 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/09/elixir-app-startup-and-runit/</guid>
+      <description>We&amp;rsquo;ve gone through a few posts and have a working application now. But if we&amp;rsquo;re going to fire this up on many nodes, we&amp;rsquo;ll have to automate the startup. The other problem is that we want the storage node to have the code running on it, but not be running any workers. We&amp;rsquo;ll setup some configuration for all of this and add it to the startup.
+Code is at https://github.com/tjheeta/elixir_web_crawler. Checkout step-5.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - supervision trees</title>
+      <link>http://tjheeta.github.io/2014/12/08/elixir-supervision-trees/</link>
+      <pubDate>Mon, 08 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/08/elixir-supervision-trees/</guid>
+      <description>We&amp;rsquo;ll be creating a supervision tree that will monitor the download and parse workers. This puts together the earlier posts and uses the remote file saving and the redis pool for the downloading, but we won&amp;rsquo;t go over any of the other code for downloading and parsing pages because that just isn&amp;rsquo;t that interesting. We could use poolboy again to limit the number of concurrent downloads, but that doesn&amp;rsquo;t really buy us much at this point.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - Saving files on a remote node</title>
+      <link>http://tjheeta.github.io/2014/12/07/elixir-saving-files-on-remote-node/</link>
+      <pubDate>Sun, 07 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/07/elixir-saving-files-on-remote-node/</guid>
+      <description>This is where erlang/elixir really shine. If I had decided to let&amp;rsquo;s say, write the workers with python and use rabbitmq to handle the messages, I&amp;rsquo;d have to setup some sort of ssh or ftp or sftp or nfs transport. Or something else. And that would just be painful. However, as demonstrated in an earlier post where erlang nodes are connected together, there is some magic happenning. That magic includes that any code can easily be called on a remote node seamlessly.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - Setting up Poolboy and Redis</title>
+      <link>http://tjheeta.github.io/2014/12/06/setting-up-poolboy-redis-elixir/</link>
+      <pubDate>Sat, 06 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/06/setting-up-poolboy-redis-elixir/</guid>
+      <description>Since we&amp;rsquo;ll be using redis, we need to limit the number of connections at any one time. There&amp;rsquo;s a nice library called Poolboy for doing this. We&amp;rsquo;ll essentially be making a pool of redis connections that will be re-used. Note that pools can be registered globally across all the erlang nodes or locally. We&amp;rsquo;ll be going with a local registration as we plan to create and destroy nodes.
+Code is at https://github.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - internode communication</title>
+      <link>http://tjheeta.github.io/2014/12/05/elixir-inter-node-communication/</link>
+      <pubDate>Fri, 05 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/05/elixir-inter-node-communication/</guid>
+      <description>We&amp;rsquo;ll be using vagrant and ansible to setup multiple nodes. It&amp;rsquo;s fairly easy to do this in erlang/elixir on a single node, but eventually we want to set it up on multiple nodes, so we might as well do it now before we decide to deploy this on a cloud provider.
+Setting up Inter-VM communication Code is at https://github.com/tjheeta/elixir_web_crawler. Checkout step-1.
+git clone https://github.com/tjheeta/elixir_web_crawler.git git checkout step-1   Create a multi-host vagrant file with ansible.</description>
+    </item>
+    
+    <item>
+      <title>Setting up a multi-machine environment in Vagrant with Ansible</title>
+      <link>http://tjheeta.github.io/2014/12/02/ansible-vagrant-multiple-nodes/</link>
+      <pubDate>Tue, 02 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/02/ansible-vagrant-multiple-nodes/</guid>
+      <description>Setting up a multi-vm environment with master and slave ip&amp;rsquo;s is a bit tricky with Vagrant. With chef, we&amp;rsquo;d have to setup chef-zero, which I&amp;rsquo;ve had many issues with vagrant, or a local chef-server to deploy a multi-machine cluster. It works, but I was never enamored with it. However, this isn&amp;rsquo;t a post about chef. With ansible, there are a few gotchas which are covered in the Vagrantfile below, but it&amp;rsquo;s actually quite a bit easier.</description>
+    </item>
+    
+    <item>
+      <title>Ansible autoscale (tower) alternatives</title>
+      <link>http://tjheeta.github.io/2014/11/24/ansible-autoscale-tower-alternative/</link>
+      <pubDate>Mon, 24 Nov 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/11/24/ansible-autoscale-tower-alternative/</guid>
+      <description>In my last post, I wanted to deploy a cluster of workers, but stopped after setting up autoscaling groups as I wanted a &amp;ldquo;nice&amp;rdquo; way to build them up. I could have plowed on with a userdata script that was built with the original master server ip, followed by using ansible-playbook to download and execute some plays. In fact, that seems awfully reasonable to me right now instead of going on this yak-shaving adventure.</description>
+    </item>
+    
+    <item>
+      <title>Ansible and EC2</title>
+      <link>http://tjheeta.github.io/2014/11/21/ansible-and-ec2-part-1/</link>
+      <pubDate>Fri, 21 Nov 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/11/21/ansible-and-ec2-part-1/</guid>
+      <description>There are a few must-haves to switch from Chef to Ansible and a few nice to haves.
+ A replacement for chef search Ability to create and manage auto-scaling infrastructure on EC2. A way to bootstrap inventory without a central master.  So a basic application pattern would be a central server and a set of workers. To provision on EC2, we need to do a few things:
+ Create a security group Spin up a central server instance Spin up worker instances Ability to setup autoscale groups Provision the workers brought up by the autoscale group  Setting up the EC2 resources is easier in ansible than in chef.</description>
+    </item>
+    
+    <item>
+      <title>Chef, Puppet, Ansible</title>
+      <link>http://tjheeta.github.io/2014/11/20/chef-puppet-ansible/</link>
+      <pubDate>Thu, 20 Nov 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/11/20/chef-puppet-ansible/</guid>
+      <description>I&amp;rsquo;ve been using Chef for years. Since it was in 0.7 and very rough. Before Chef, I was using Puppet. Before Puppet, there was shell scripts.
+I switched from Puppet for a few reasons (I&amp;rsquo;m not sure if they apply anymore though):
+ In 2009, we built our own private cloud on some blades and at the time there was no nice way to create hosts automatically. But then knife came along and we fell in love with it.</description>
+    </item>
+    
+    <item>
+      <title>Chef EC2 Autoscale</title>
+      <link>http://tjheeta.github.io/2014/11/19/chef-ec2-autoscale/</link>
+      <pubDate>Wed, 19 Nov 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/11/19/chef-ec2-autoscale/</guid>
+      <description>This post is essentially just for comparison of how to do the same autoscale with ansible as with chef.
+To use chef with an autoscale group, we need to setup the chef-client with the validation key to connect back to the chef-server. Before IAM policies, we would have to do this directly in the userdata script - either by pulling it or writing our passwords there. Now with the IAM group, we can give read-only access to the ec2 instances to an s3 bucket.</description>
+    </item>
+    
+    <item>
+      <title>Url shortener</title>
+      <link>http://tjheeta.github.io/posts/system-design-example-url-shortener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/posts/system-design-example-url-shortener/</guid>
+      <description>Introduction In this example, the major concepts we&amp;rsquo;ll be going through are:
+ Encoding / address space Unique id generation. This will be a precursor to sharding, what a good/bad sharding scheme is, and eventually give us better understanding consistent hashing. Caching (but not chained object cache-invalidation) Digressions into performance tuning, IOPS, random numbers, counters, encoding, and compression.  How to use this You&amp;rsquo;ll need a pencil and paper to do calculations and draw diagrams.</description>
+    </item>
+    
+  </channel>
+</rss>

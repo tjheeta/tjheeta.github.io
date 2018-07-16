@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elixir Web Crawler on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/series/elixir-web-crawler/</link>
+    <description>Recent content in Elixir Web Crawler on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2014 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/series/elixir-web-crawler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building a distributed web-crawler in elixir</title>
+      <link>http://tjheeta.github.io/2014/12/10/building-distributed-web-crawler-elixir-index/</link>
+      <pubDate>Wed, 10 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/10/building-distributed-web-crawler-elixir-index/</guid>
+      <description>So here&amp;rsquo;s an n-part tutorial on getting a distributed web-crawler running with Elixir. So what&amp;rsquo;s the motivation for this yak-shaving project? Essentially, someone asked me. So here goes&amp;hellip;
+The crawler has two main tasks and a few requirements:
+ Download the pages and store them on some node. Parse the pages for new links. Ability to spawn or destroy worker nodes as required and have it pick back up. Ability to limit the number of times a worker accesses a website to avoid getting banned.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - app startup and runit</title>
+      <link>http://tjheeta.github.io/2014/12/09/elixir-app-startup-and-runit/</link>
+      <pubDate>Tue, 09 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/09/elixir-app-startup-and-runit/</guid>
+      <description>We&amp;rsquo;ve gone through a few posts and have a working application now. But if we&amp;rsquo;re going to fire this up on many nodes, we&amp;rsquo;ll have to automate the startup. The other problem is that we want the storage node to have the code running on it, but not be running any workers. We&amp;rsquo;ll setup some configuration for all of this and add it to the startup.
+Code is at https://github.com/tjheeta/elixir_web_crawler. Checkout step-5.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - supervision trees</title>
+      <link>http://tjheeta.github.io/2014/12/08/elixir-supervision-trees/</link>
+      <pubDate>Mon, 08 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/08/elixir-supervision-trees/</guid>
+      <description>We&amp;rsquo;ll be creating a supervision tree that will monitor the download and parse workers. This puts together the earlier posts and uses the remote file saving and the redis pool for the downloading, but we won&amp;rsquo;t go over any of the other code for downloading and parsing pages because that just isn&amp;rsquo;t that interesting. We could use poolboy again to limit the number of concurrent downloads, but that doesn&amp;rsquo;t really buy us much at this point.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - Saving files on a remote node</title>
+      <link>http://tjheeta.github.io/2014/12/07/elixir-saving-files-on-remote-node/</link>
+      <pubDate>Sun, 07 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/07/elixir-saving-files-on-remote-node/</guid>
+      <description>This is where erlang/elixir really shine. If I had decided to let&amp;rsquo;s say, write the workers with python and use rabbitmq to handle the messages, I&amp;rsquo;d have to setup some sort of ssh or ftp or sftp or nfs transport. Or something else. And that would just be painful. However, as demonstrated in an earlier post where erlang nodes are connected together, there is some magic happenning. That magic includes that any code can easily be called on a remote node seamlessly.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - Setting up Poolboy and Redis</title>
+      <link>http://tjheeta.github.io/2014/12/06/setting-up-poolboy-redis-elixir/</link>
+      <pubDate>Sat, 06 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/06/setting-up-poolboy-redis-elixir/</guid>
+      <description>Since we&amp;rsquo;ll be using redis, we need to limit the number of connections at any one time. There&amp;rsquo;s a nice library called Poolboy for doing this. We&amp;rsquo;ll essentially be making a pool of redis connections that will be re-used. Note that pools can be registered globally across all the erlang nodes or locally. We&amp;rsquo;ll be going with a local registration as we plan to create and destroy nodes.
+Code is at https://github.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - internode communication</title>
+      <link>http://tjheeta.github.io/2014/12/05/elixir-inter-node-communication/</link>
+      <pubDate>Fri, 05 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/05/elixir-inter-node-communication/</guid>
+      <description>We&amp;rsquo;ll be using vagrant and ansible to setup multiple nodes. It&amp;rsquo;s fairly easy to do this in erlang/elixir on a single node, but eventually we want to set it up on multiple nodes, so we might as well do it now before we decide to deploy this on a cloud provider.
+Setting up Inter-VM communication Code is at https://github.com/tjheeta/elixir_web_crawler. Checkout step-1.
+git clone https://github.com/tjheeta/elixir_web_crawler.git git checkout step-1   Create a multi-host vagrant file with ansible.</description>
+    </item>
+    
+  </channel>
+</rss>

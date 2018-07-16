@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Databases on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/databases/</link>
+    <description>Recent content in Databases on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2015 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elixir and Erlang Mysql Database Drivers</title>
+      <link>http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/</link>
+      <pubDate>Sun, 31 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/</guid>
+      <description>Yesterday, I was investigating the performance of database drivers in Erlang. Mysql performance on Erlang has never really been great. Emysql readme states a bunch of technical shortcomings, but then states it&amp;rsquo;s still probably the best one out there. Another one is erlang-mysql-driver, but it seems to have never gained any steam either. I&amp;rsquo;ve never heard of Erlmysql before today. Elixir has it&amp;rsquo;s own mysql driver Mariaex, but the performance of that isn&amp;rsquo;t that great.</description>
+    </item>
+    
+    <item>
+      <title>Profiling and Debugging in Elixir - Mariaex</title>
+      <link>http://tjheeta.github.io/2015/05/31/profiling-debugging-elixir-mariaex/</link>
+      <pubDate>Sun, 31 May 2015 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/31/profiling-debugging-elixir-mariaex/</guid>
+      <description>I&amp;rsquo;m looking for a solid mysql driver for Ecto. Mariaex is the only one, but it is behaving strangely and slowly. I&amp;rsquo;m documenting this debugging in hopes it is useful for future generations.
+The raw results are below and the source code for this is on github.
+Repeatedly running the benchmark has the latency pinned at 200 ms. This doesn&amp;rsquo;t make any sense.
+# Ecto with Mariaex ./wrk -c 100 -d 10 -t 20 http://localhost:8800/mariaex Running 10s test @ http://localhost:8800/ecto 20 threads and 100 connections Thread Stats Avg Stdev Max +/- Stdev Latency 200.</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Elixir and Erlang database drivers</title>
+      <link>http://tjheeta.github.io/2015/05/30/benchmarking-elixir-postgres-mysql-ecto/</link>
+      <pubDate>Sat, 30 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/30/benchmarking-elixir-postgres-mysql-ecto/</guid>
+      <description>I&amp;rsquo;ve never used an ORM before, mainly because I&amp;rsquo;ve had some previous experience watching people use Hibernate and it scared the bejeebus out of me. It seems easier to just write the SQL and there are some performance advantages to do so. Was planning to try Ecto, so at this point, it&amp;rsquo;s a good time to do some very simple benchmarks for select. So we&amp;rsquo;ll be benchmarking ecto, postgrex, epgsql, mariaex, and emysql, and mysql-otp.</description>
+    </item>
+    
+    <item>
+      <title>The naive basics of scaling backend data</title>
+      <link>http://tjheeta.github.io/2014/12/27/naive-basics-scaling-a-backend/</link>
+      <pubDate>Sat, 27 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/27/naive-basics-scaling-a-backend/</guid>
+      <description>I recently had to talk about scaling backend data, so I figured I would write a post about it. There&amp;rsquo;s a well defined pattern to scaling backends which involves moving the bottlenecks from IO to CPU to network and back. I&amp;rsquo;m only going to be talking about well established patterns for scaling backend data because optimizing frontend and throughput is an incredibly nuanced topic.
+So let&amp;rsquo;s say you&amp;rsquo;re running out of space.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benchmark on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/benchmark/</link>
+    <description>Recent content in Benchmark on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2015 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/benchmark/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benchmarking Elixir and Erlang database drivers</title>
+      <link>http://tjheeta.github.io/2015/05/30/benchmarking-elixir-postgres-mysql-ecto/</link>
+      <pubDate>Sat, 30 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/30/benchmarking-elixir-postgres-mysql-ecto/</guid>
+      <description>I&amp;rsquo;ve never used an ORM before, mainly because I&amp;rsquo;ve had some previous experience watching people use Hibernate and it scared the bejeebus out of me. It seems easier to just write the SQL and there are some performance advantages to do so. Was planning to try Ecto, so at this point, it&amp;rsquo;s a good time to do some very simple benchmarks for select. So we&amp;rsquo;ll be benchmarking ecto, postgrex, epgsql, mariaex, and emysql, and mysql-otp.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://tjheeta.github.io/2018/07/15/thinkpad-x230-coreboot-power-usage/</loc>
+    <lastmod>2018-07-15T03:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2016/12/16/dawn-of-the-microlith-monoservices-microservices-with-elixir/</loc>
+    <lastmod>2016-12-16T05:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2016/07/25/the-search-for-ultimate-carry-on-travel-backpack/</loc>
+    <lastmod>2016-07-25T03:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2016/05/25/getting-rid-of-macbook-air-for-thinkpad-x200/</loc>
+    <lastmod>2016-05-25T03:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2016/01/31/picking-the-right-framework/</loc>
+    <lastmod>2016-01-31T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2016/01/31/moving-from-jekyll-to-hugo/</loc>
+    <lastmod>2016-01-31T03:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/</loc>
+    <lastmod>2015-05-31T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/05/31/profiling-debugging-elixir-mariaex/</loc>
+    <lastmod>2015-05-31T03:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/05/30/benchmarking-elixir-postgres-mysql-ecto/</loc>
+    <lastmod>2015-05-30T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/04/15/ansible-vs-chef/</loc>
+    <lastmod>2015-04-15T05:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/04/14/ansible-credentials-and-variable-override/</loc>
+    <lastmod>2015-04-14T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/03/01/debugging-systems/</loc>
+    <lastmod>2015-03-01T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/02/17/ansible-tinc/</loc>
+    <lastmod>2015-02-17T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/01/30/slashpackage-installer/</loc>
+    <lastmod>2015-01-30T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/01/18/ansible-chef-inventory/</loc>
+    <lastmod>2015-01-18T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2015/01/04/the-importance-of-documentation/</loc>
+    <lastmod>2015-01-04T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/12/27/naive-basics-scaling-a-backend/</loc>
+    <lastmod>2014-12-27T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/12/24/elixir-external-process-supervisor-restart-pattern/</loc>
+    <lastmod>2014-12-24T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/12/10/building-distributed-web-crawler-elixir-index/</loc>
+    <lastmod>2014-12-10T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/12/09/elixir-app-startup-and-runit/</loc>
+    <lastmod>2014-12-09T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/12/08/elixir-supervision-trees/</loc>
+    <lastmod>2014-12-08T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/12/07/elixir-saving-files-on-remote-node/</loc>
+    <lastmod>2014-12-07T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/12/06/setting-up-poolboy-redis-elixir/</loc>
+    <lastmod>2014-12-06T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/12/05/elixir-inter-node-communication/</loc>
+    <lastmod>2014-12-05T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/12/02/ansible-vagrant-multiple-nodes/</loc>
+    <lastmod>2014-12-02T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/11/24/ansible-autoscale-tower-alternative/</loc>
+    <lastmod>2014-11-24T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/11/21/ansible-and-ec2-part-1/</loc>
+    <lastmod>2014-11-21T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/11/20/chef-puppet-ansible/</loc>
+    <lastmod>2014-11-20T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/2014/11/19/chef-ec2-autoscale/</loc>
+    <lastmod>2014-11-19T04:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/ansible/</loc>
+    <lastmod>2015-04-15T05:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/backend/</loc>
+    <lastmod>2014-12-27T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/benchmark/</loc>
+    <lastmod>2015-05-30T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/chef/</loc>
+    <lastmod>2015-04-15T05:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/databases/</loc>
+    <lastmod>2015-05-31T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/debugging/</loc>
+    <lastmod>2015-05-31T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/devops/</loc>
+    <lastmod>2016-12-16T05:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/elixir/</loc>
+    <lastmod>2016-12-16T05:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/series/elixir-web-crawler/</loc>
+    <lastmod>2014-12-10T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/categories/hardware/</loc>
+    <lastmod>2018-07-15T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/hugo/</loc>
+    <lastmod>2016-01-31T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/inventory/</loc>
+    <lastmod>2015-01-18T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/jekyll/</loc>
+    <lastmod>2016-01-31T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/categories/laptop/</loc>
+    <lastmod>2018-07-15T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/macbook-air/</loc>
+    <lastmod>2018-07-15T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/microservices/</loc>
+    <lastmod>2016-12-16T05:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/musl/</loc>
+    <lastmod>2015-01-30T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/mysql/</loc>
+    <lastmod>2015-05-31T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/nixos/</loc>
+    <lastmod>2015-01-30T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/</loc>
+    <lastmod>2018-07-15T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/onebag/</loc>
+    <lastmod>2016-07-25T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/post/</loc>
+    <lastmod>2018-07-15T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/posts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/rabbitmq/</loc>
+    <lastmod>2014-12-24T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/review/</loc>
+    <lastmod>2016-07-25T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/scaling/</loc>
+    <lastmod>2014-12-27T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/series/</loc>
+    <lastmod>2014-12-10T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/slashpackage/</loc>
+    <lastmod>2015-01-30T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/startups/</loc>
+    <lastmod>2016-01-31T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/sysdig/</loc>
+    <lastmod>2015-03-01T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/systems/</loc>
+    <lastmod>2015-03-01T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/</loc>
+    <lastmod>2015-04-15T05:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/thinkpad/</loc>
+    <lastmod>2018-07-15T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/tinc/</loc>
+    <lastmod>2015-02-17T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/categories/travel/</loc>
+    <lastmod>2016-07-25T03:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/posts/system-design-example-url-shortener/</loc>
+  </url>
+  
+  <url>
+    <loc>http://tjheeta.github.io/tags/vagrant/</loc>
+    <lastmod>2014-12-02T04:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

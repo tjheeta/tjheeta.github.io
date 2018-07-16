@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slashpackage on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/slashpackage/</link>
+    <description>Recent content in Slashpackage on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2015 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/slashpackage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slashpackage binaries compiled with Musl</title>
+      <link>http://tjheeta.github.io/2015/01/30/slashpackage-installer/</link>
+      <pubDate>Fri, 30 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/01/30/slashpackage-installer/</guid>
+      <description>I was fooling around with NixOS and it was a bit trickier to compile the binaries I was interested in. So I cobbled together a rudimentary slashpackage manager based off the work of Paul Jarc. The work was fairly complete for C programs, but it seems to be mostly abandoned at this point. Slashpackage binaries can be used on any system and are convenient for custom upgrades. All binaries are installed in /package and symlinked to /command or /package/host/&amp;hellip;/command.</description>
+    </item>
+    
+  </channel>
+</rss>

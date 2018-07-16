@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microservices on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/microservices/</link>
+    <description>Recent content in Microservices on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Dec 2016 05:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dawn of the Microlith - Monoservices with Elixir</title>
+      <link>http://tjheeta.github.io/2016/12/16/dawn-of-the-microlith-monoservices-microservices-with-elixir/</link>
+      <pubDate>Fri, 16 Dec 2016 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2016/12/16/dawn-of-the-microlith-monoservices-microservices-with-elixir/</guid>
+      <description>Introduction Microservices are the newest technology trend and should be approached with deliberation. There is a ludicrous amount of subject matter on it, which I&amp;rsquo;m not going to cover. The important part to understand is if they are a fit for your organization.
+To measure if the architecture adds business value, it really comes down to how quickly can features be released to production and the stability / maintainability of the codebase.</description>
+    </item>
+    
+  </channel>
+</rss>

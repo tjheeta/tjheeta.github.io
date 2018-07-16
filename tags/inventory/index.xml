@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inventory on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/inventory/</link>
+    <description>Recent content in Inventory on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jan 2015 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/inventory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible Chef Inventory Orchestration</title>
+      <link>http://tjheeta.github.io/2015/01/18/ansible-chef-inventory/</link>
+      <pubDate>Sun, 18 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/01/18/ansible-chef-inventory/</guid>
+      <description>If you have used or are using chef for configuration management, chances are that you may have rolled some custom deployment scripts with fog or some other libraries. However, why roll your own when you don&amp;rsquo;t have to? It&amp;rsquo;s pretty easy to manage and orchestrate with the dynamic inventory of ansible.
+Ansible can handle a few of the common orchestration tasks easily that aren&amp;rsquo;t possible without custom work:
+ Deployments that require some ordering Rolling upgrades Creation of hosts and clusters on a variety of providers and then bootstrapping.</description>
+    </item>
+    
+  </channel>
+</rss>

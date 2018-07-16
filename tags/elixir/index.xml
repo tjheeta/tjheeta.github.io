@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elixir on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/elixir/</link>
+    <description>Recent content in Elixir on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Dec 2016 05:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/elixir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dawn of the Microlith - Monoservices with Elixir</title>
+      <link>http://tjheeta.github.io/2016/12/16/dawn-of-the-microlith-monoservices-microservices-with-elixir/</link>
+      <pubDate>Fri, 16 Dec 2016 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2016/12/16/dawn-of-the-microlith-monoservices-microservices-with-elixir/</guid>
+      <description>Introduction Microservices are the newest technology trend and should be approached with deliberation. There is a ludicrous amount of subject matter on it, which I&amp;rsquo;m not going to cover. The important part to understand is if they are a fit for your organization.
+To measure if the architecture adds business value, it really comes down to how quickly can features be released to production and the stability / maintainability of the codebase.</description>
+    </item>
+    
+    <item>
+      <title>Elixir and Erlang Mysql Database Drivers</title>
+      <link>http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/</link>
+      <pubDate>Sun, 31 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/</guid>
+      <description>Yesterday, I was investigating the performance of database drivers in Erlang. Mysql performance on Erlang has never really been great. Emysql readme states a bunch of technical shortcomings, but then states it&amp;rsquo;s still probably the best one out there. Another one is erlang-mysql-driver, but it seems to have never gained any steam either. I&amp;rsquo;ve never heard of Erlmysql before today. Elixir has it&amp;rsquo;s own mysql driver Mariaex, but the performance of that isn&amp;rsquo;t that great.</description>
+    </item>
+    
+    <item>
+      <title>Profiling and Debugging in Elixir - Mariaex</title>
+      <link>http://tjheeta.github.io/2015/05/31/profiling-debugging-elixir-mariaex/</link>
+      <pubDate>Sun, 31 May 2015 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/31/profiling-debugging-elixir-mariaex/</guid>
+      <description>I&amp;rsquo;m looking for a solid mysql driver for Ecto. Mariaex is the only one, but it is behaving strangely and slowly. I&amp;rsquo;m documenting this debugging in hopes it is useful for future generations.
+The raw results are below and the source code for this is on github.
+Repeatedly running the benchmark has the latency pinned at 200 ms. This doesn&amp;rsquo;t make any sense.
+# Ecto with Mariaex ./wrk -c 100 -d 10 -t 20 http://localhost:8800/mariaex Running 10s test @ http://localhost:8800/ecto 20 threads and 100 connections Thread Stats Avg Stdev Max +/- Stdev Latency 200.</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Elixir and Erlang database drivers</title>
+      <link>http://tjheeta.github.io/2015/05/30/benchmarking-elixir-postgres-mysql-ecto/</link>
+      <pubDate>Sat, 30 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/30/benchmarking-elixir-postgres-mysql-ecto/</guid>
+      <description>I&amp;rsquo;ve never used an ORM before, mainly because I&amp;rsquo;ve had some previous experience watching people use Hibernate and it scared the bejeebus out of me. It seems easier to just write the SQL and there are some performance advantages to do so. Was planning to try Ecto, so at this point, it&amp;rsquo;s a good time to do some very simple benchmarks for select. So we&amp;rsquo;ll be benchmarking ecto, postgrex, epgsql, mariaex, and emysql, and mysql-otp.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - external process connection supervisor pattern </title>
+      <link>http://tjheeta.github.io/2014/12/24/elixir-external-process-supervisor-restart-pattern/</link>
+      <pubDate>Wed, 24 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/24/elixir-external-process-supervisor-restart-pattern/</guid>
+      <description>Unfortunately, it&amp;rsquo;s pretty difficult to title this post, but it&amp;rsquo;s a common problem. Let&amp;rsquo;s say that you have an application that depends on an external service like a database. If you have a pool of workers that are under supervision and the database goes down, what will happen is that erlang supervisor will attempt to restart max_restarts in max_seconds . If the database is down for a long time, after it fails, it will kill the children and exit itself.</description>
+    </item>
+    
+    <item>
+      <title>Building a distributed web-crawler in elixir</title>
+      <link>http://tjheeta.github.io/2014/12/10/building-distributed-web-crawler-elixir-index/</link>
+      <pubDate>Wed, 10 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/10/building-distributed-web-crawler-elixir-index/</guid>
+      <description>So here&amp;rsquo;s an n-part tutorial on getting a distributed web-crawler running with Elixir. So what&amp;rsquo;s the motivation for this yak-shaving project? Essentially, someone asked me. So here goes&amp;hellip;
+The crawler has two main tasks and a few requirements:
+ Download the pages and store them on some node. Parse the pages for new links. Ability to spawn or destroy worker nodes as required and have it pick back up. Ability to limit the number of times a worker accesses a website to avoid getting banned.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - app startup and runit</title>
+      <link>http://tjheeta.github.io/2014/12/09/elixir-app-startup-and-runit/</link>
+      <pubDate>Tue, 09 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/09/elixir-app-startup-and-runit/</guid>
+      <description>We&amp;rsquo;ve gone through a few posts and have a working application now. But if we&amp;rsquo;re going to fire this up on many nodes, we&amp;rsquo;ll have to automate the startup. The other problem is that we want the storage node to have the code running on it, but not be running any workers. We&amp;rsquo;ll setup some configuration for all of this and add it to the startup.
+Code is at https://github.com/tjheeta/elixir_web_crawler. Checkout step-5.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - supervision trees</title>
+      <link>http://tjheeta.github.io/2014/12/08/elixir-supervision-trees/</link>
+      <pubDate>Mon, 08 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/08/elixir-supervision-trees/</guid>
+      <description>We&amp;rsquo;ll be creating a supervision tree that will monitor the download and parse workers. This puts together the earlier posts and uses the remote file saving and the redis pool for the downloading, but we won&amp;rsquo;t go over any of the other code for downloading and parsing pages because that just isn&amp;rsquo;t that interesting. We could use poolboy again to limit the number of concurrent downloads, but that doesn&amp;rsquo;t really buy us much at this point.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - Saving files on a remote node</title>
+      <link>http://tjheeta.github.io/2014/12/07/elixir-saving-files-on-remote-node/</link>
+      <pubDate>Sun, 07 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/07/elixir-saving-files-on-remote-node/</guid>
+      <description>This is where erlang/elixir really shine. If I had decided to let&amp;rsquo;s say, write the workers with python and use rabbitmq to handle the messages, I&amp;rsquo;d have to setup some sort of ssh or ftp or sftp or nfs transport. Or something else. And that would just be painful. However, as demonstrated in an earlier post where erlang nodes are connected together, there is some magic happenning. That magic includes that any code can easily be called on a remote node seamlessly.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - Setting up Poolboy and Redis</title>
+      <link>http://tjheeta.github.io/2014/12/06/setting-up-poolboy-redis-elixir/</link>
+      <pubDate>Sat, 06 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/06/setting-up-poolboy-redis-elixir/</guid>
+      <description>Since we&amp;rsquo;ll be using redis, we need to limit the number of connections at any one time. There&amp;rsquo;s a nice library called Poolboy for doing this. We&amp;rsquo;ll essentially be making a pool of redis connections that will be re-used. Note that pools can be registered globally across all the erlang nodes or locally. We&amp;rsquo;ll be going with a local registration as we plan to create and destroy nodes.
+Code is at https://github.</description>
+    </item>
+    
+    <item>
+      <title>Elixir - internode communication</title>
+      <link>http://tjheeta.github.io/2014/12/05/elixir-inter-node-communication/</link>
+      <pubDate>Fri, 05 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/05/elixir-inter-node-communication/</guid>
+      <description>We&amp;rsquo;ll be using vagrant and ansible to setup multiple nodes. It&amp;rsquo;s fairly easy to do this in erlang/elixir on a single node, but eventually we want to set it up on multiple nodes, so we might as well do it now before we decide to deploy this on a cloud provider.
+Setting up Inter-VM communication Code is at https://github.com/tjheeta/elixir_web_crawler. Checkout step-1.
+git clone https://github.com/tjheeta/elixir_web_crawler.git git checkout step-1   Create a multi-host vagrant file with ansible.</description>
+    </item>
+    
+  </channel>
+</rss>

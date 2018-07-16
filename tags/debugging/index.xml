@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debugging on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/debugging/</link>
+    <description>Recent content in Debugging on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2015 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elixir and Erlang Mysql Database Drivers</title>
+      <link>http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/</link>
+      <pubDate>Sun, 31 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/</guid>
+      <description>Yesterday, I was investigating the performance of database drivers in Erlang. Mysql performance on Erlang has never really been great. Emysql readme states a bunch of technical shortcomings, but then states it&amp;rsquo;s still probably the best one out there. Another one is erlang-mysql-driver, but it seems to have never gained any steam either. I&amp;rsquo;ve never heard of Erlmysql before today. Elixir has it&amp;rsquo;s own mysql driver Mariaex, but the performance of that isn&amp;rsquo;t that great.</description>
+    </item>
+    
+    <item>
+      <title>Profiling and Debugging in Elixir - Mariaex</title>
+      <link>http://tjheeta.github.io/2015/05/31/profiling-debugging-elixir-mariaex/</link>
+      <pubDate>Sun, 31 May 2015 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/05/31/profiling-debugging-elixir-mariaex/</guid>
+      <description>I&amp;rsquo;m looking for a solid mysql driver for Ecto. Mariaex is the only one, but it is behaving strangely and slowly. I&amp;rsquo;m documenting this debugging in hopes it is useful for future generations.
+The raw results are below and the source code for this is on github.
+Repeatedly running the benchmark has the latency pinned at 200 ms. This doesn&amp;rsquo;t make any sense.
+# Ecto with Mariaex ./wrk -c 100 -d 10 -t 20 http://localhost:8800/mariaex Running 10s test @ http://localhost:8800/ecto 20 threads and 100 connections Thread Stats Avg Stdev Max +/- Stdev Latency 200.</description>
+    </item>
+    
+    <item>
+      <title>Debugging slow systems</title>
+      <link>http://tjheeta.github.io/2015/03/01/debugging-systems/</link>
+      <pubDate>Sun, 01 Mar 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/03/01/debugging-systems/</guid>
+      <description>Most of this post is blindingly obvious since it&amp;rsquo;s the scientific method. And quite frankly, I wouldn&amp;rsquo;t be writing it if someone didn&amp;rsquo;t ask me why something was slow. Most of the time this is a game of whack-a-mole, especially, if you don&amp;rsquo;t got something like newrelic installed. A better question to ask is not why is something slow, but when will something become slow? So let&amp;rsquo;s start with a basic, &amp;ldquo;OMG, the website is slow!</description>
+    </item>
+    
+  </channel>
+</rss>

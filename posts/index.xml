@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/posts/</link>
+    <description>Recent content in Posts on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://tjheeta.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Url shortener</title>
+      <link>http://tjheeta.github.io/posts/system-design-example-url-shortener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/posts/system-design-example-url-shortener/</guid>
+      <description>Introduction In this example, the major concepts we&amp;rsquo;ll be going through are:
+ Encoding / address space Unique id generation. This will be a precursor to sharding, what a good/bad sharding scheme is, and eventually give us better understanding consistent hashing. Caching (but not chained object cache-invalidation) Digressions into performance tuning, IOPS, random numbers, counters, encoding, and compression.  How to use this You&amp;rsquo;ll need a pencil and paper to do calculations and draw diagrams.</description>
+    </item>
+    
+  </channel>
+</rss>

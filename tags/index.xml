@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/</link>
+    <description>Recent content in Tags on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2015 05:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible</title>
+      <link>http://tjheeta.github.io/tags/ansible/</link>
+      <pubDate>Wed, 15 Apr 2015 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backend</title>
+      <link>http://tjheeta.github.io/tags/backend/</link>
+      <pubDate>Sat, 27 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmark</title>
+      <link>http://tjheeta.github.io/tags/benchmark/</link>
+      <pubDate>Sat, 30 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chef</title>
+      <link>http://tjheeta.github.io/tags/chef/</link>
+      <pubDate>Wed, 15 Apr 2015 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/chef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>http://tjheeta.github.io/tags/databases/</link>
+      <pubDate>Sun, 31 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debugging</title>
+      <link>http://tjheeta.github.io/tags/debugging/</link>
+      <pubDate>Sun, 31 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>http://tjheeta.github.io/tags/devops/</link>
+      <pubDate>Fri, 16 Dec 2016 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elixir</title>
+      <link>http://tjheeta.github.io/tags/elixir/</link>
+      <pubDate>Fri, 16 Dec 2016 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/elixir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://tjheeta.github.io/tags/hugo/</link>
+      <pubDate>Sun, 31 Jan 2016 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inventory</title>
+      <link>http://tjheeta.github.io/tags/inventory/</link>
+      <pubDate>Sun, 18 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/inventory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>http://tjheeta.github.io/tags/jekyll/</link>
+      <pubDate>Sun, 31 Jan 2016 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macbook Air</title>
+      <link>http://tjheeta.github.io/tags/macbook-air/</link>
+      <pubDate>Sun, 15 Jul 2018 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/macbook-air/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>http://tjheeta.github.io/tags/microservices/</link>
+      <pubDate>Fri, 16 Dec 2016 05:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musl</title>
+      <link>http://tjheeta.github.io/tags/musl/</link>
+      <pubDate>Fri, 30 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/musl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>http://tjheeta.github.io/tags/mysql/</link>
+      <pubDate>Sun, 31 May 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nixos</title>
+      <link>http://tjheeta.github.io/tags/nixos/</link>
+      <pubDate>Fri, 30 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/nixos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onebag</title>
+      <link>http://tjheeta.github.io/tags/onebag/</link>
+      <pubDate>Mon, 25 Jul 2016 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/onebag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabbitmq</title>
+      <link>http://tjheeta.github.io/tags/rabbitmq/</link>
+      <pubDate>Wed, 24 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/rabbitmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>http://tjheeta.github.io/tags/review/</link>
+      <pubDate>Mon, 25 Jul 2016 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling</title>
+      <link>http://tjheeta.github.io/tags/scaling/</link>
+      <pubDate>Sat, 27 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slashpackage</title>
+      <link>http://tjheeta.github.io/tags/slashpackage/</link>
+      <pubDate>Fri, 30 Jan 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/slashpackage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startups</title>
+      <link>http://tjheeta.github.io/tags/startups/</link>
+      <pubDate>Sun, 31 Jan 2016 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/startups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sysdig</title>
+      <link>http://tjheeta.github.io/tags/sysdig/</link>
+      <pubDate>Sun, 01 Mar 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/sysdig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems</title>
+      <link>http://tjheeta.github.io/tags/systems/</link>
+      <pubDate>Sun, 01 Mar 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinkpad</title>
+      <link>http://tjheeta.github.io/tags/thinkpad/</link>
+      <pubDate>Sun, 15 Jul 2018 03:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/thinkpad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tinc</title>
+      <link>http://tjheeta.github.io/tags/tinc/</link>
+      <pubDate>Tue, 17 Feb 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/tinc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vagrant</title>
+      <link>http://tjheeta.github.io/tags/vagrant/</link>
+      <pubDate>Tue, 02 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/tags/vagrant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

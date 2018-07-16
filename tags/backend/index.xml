@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backend on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/backend/</link>
+    <description>Recent content in Backend on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Dec 2014 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The naive basics of scaling backend data</title>
+      <link>http://tjheeta.github.io/2014/12/27/naive-basics-scaling-a-backend/</link>
+      <pubDate>Sat, 27 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/27/naive-basics-scaling-a-backend/</guid>
+      <description>I recently had to talk about scaling backend data, so I figured I would write a post about it. There&amp;rsquo;s a well defined pattern to scaling backends which involves moving the bottlenecks from IO to CPU to network and back. I&amp;rsquo;m only going to be talking about well established patterns for scaling backend data because optimizing frontend and throughput is an incredibly nuanced topic.
+So let&amp;rsquo;s say you&amp;rsquo;re running out of space.</description>
+    </item>
+    
+  </channel>
+</rss>

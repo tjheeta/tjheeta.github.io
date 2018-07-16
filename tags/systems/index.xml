@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/systems/</link>
+    <description>Recent content in Systems on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2015 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Debugging slow systems</title>
+      <link>http://tjheeta.github.io/2015/03/01/debugging-systems/</link>
+      <pubDate>Sun, 01 Mar 2015 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2015/03/01/debugging-systems/</guid>
+      <description>Most of this post is blindingly obvious since it&amp;rsquo;s the scientific method. And quite frankly, I wouldn&amp;rsquo;t be writing it if someone didn&amp;rsquo;t ask me why something was slow. Most of the time this is a game of whack-a-mole, especially, if you don&amp;rsquo;t got something like newrelic installed. A better question to ask is not why is something slow, but when will something become slow? So let&amp;rsquo;s start with a basic, &amp;ldquo;OMG, the website is slow!</description>
+    </item>
+    
+  </channel>
+</rss>

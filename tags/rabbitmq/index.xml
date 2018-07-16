@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rabbitmq on Nothing interesting...</title>
+    <link>http://tjheeta.github.io/tags/rabbitmq/</link>
+    <description>Recent content in Rabbitmq on Nothing interesting...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Dec 2014 04:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tjheeta.github.io/tags/rabbitmq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elixir - external process connection supervisor pattern </title>
+      <link>http://tjheeta.github.io/2014/12/24/elixir-external-process-supervisor-restart-pattern/</link>
+      <pubDate>Wed, 24 Dec 2014 04:52:00 +0000</pubDate>
+      
+      <guid>http://tjheeta.github.io/2014/12/24/elixir-external-process-supervisor-restart-pattern/</guid>
+      <description>Unfortunately, it&amp;rsquo;s pretty difficult to title this post, but it&amp;rsquo;s a common problem. Let&amp;rsquo;s say that you have an application that depends on an external service like a database. If you have a pool of workers that are under supervision and the database goes down, what will happen is that erlang supervisor will attempt to restart max_restarts in max_seconds . If the database is down for a long time, after it fails, it will kill the children and exit itself.</description>
+    </item>
+    
+  </channel>
+</rss>
